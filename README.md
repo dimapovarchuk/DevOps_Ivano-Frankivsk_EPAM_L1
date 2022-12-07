@@ -1,1 +1,1 @@
-# DevOps_online_Ivano-Frankivsk_L1
+# DevOps_Ivano-Frankivsk_EPAM_L1
